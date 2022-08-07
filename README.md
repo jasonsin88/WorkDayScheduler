@@ -12,4 +12,5 @@ The top of the calender shows the current date. The calendar is created for the 
 
 ## Links
 Repository: https://github.com/jasonsin88/WorkDayScheduler/
+<br />
 Deployed: https://jasonsin88.github.io/WorkDayScheduler/
