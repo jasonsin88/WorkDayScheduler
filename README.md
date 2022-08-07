@@ -9,3 +9,7 @@ The top of the calender shows the current date. The calendar is created for the 
 ![WorkDay Calendar home](./assets/images/WorkDayCalendar.png)
 
 ![WorkDay Calendar local storage](./assets/images/WorkDayCalendar%20Local%20Storage.png)
+
+## Links
+Repository: https://github.com/jasonsin88/WorkDayScheduler/
+Deployed: https://jasonsin88.github.io/WorkDayScheduler/
